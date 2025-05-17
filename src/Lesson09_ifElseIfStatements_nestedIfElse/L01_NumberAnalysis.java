@@ -26,5 +26,6 @@ public class L01_NumberAnalysis {
         } else {
             System.out.println("Very large number");
 
+        }
     }
 }
