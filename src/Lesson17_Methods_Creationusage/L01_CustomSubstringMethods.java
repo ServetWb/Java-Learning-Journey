@@ -55,4 +55,5 @@ public class L01_CustomSubstringMethods {
 
         // Optional: we can print the result
         System.out.println("Contains space? " + result);
+    }
 }
