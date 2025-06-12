@@ -1,6 +1,6 @@
 package Lesson23_Scope;
 
-public class L04_Hospital {
+public class L03_Hospital {
 
      /*
         Among the variables created at the class level,
